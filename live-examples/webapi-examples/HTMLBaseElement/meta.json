@@ -1,0 +1,15 @@
+{
+  "pages": {
+    "target": {
+      "exampleCode": "./live-examples/webapi-examples/HTMLBaseElement/target/HTMLBaseElement-target.html",
+      "cssExampleSrc": "./live-examples/webapi-examples/HTMLBaseElement/target/css/HTMLBaseElement-target.css",
+      "jsExampleSrc": "./live-examples/webapi-examples/HTMLBaseElement/target/js/HTMLBaseElement-target.js",
+      "fileName": "HTMLBaseElement-target.html",
+      "title": "<base> target attribute values",
+      "height": "tabbed-shorter",
+      "type": "webapi-tabbed",
+      "tabs": "html,css,js",
+      "defaultTab": "js"
+    }
+  }
+}
